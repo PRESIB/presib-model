@@ -174,25 +174,25 @@
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
         </g>
         <g clip-path="url(#clip26)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5537.27 2196)">RH T Available</text></g>
+                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5537.27 2196)">Av. Rh M</text></g>
         <g clip-path="url(#clip27)">
             <path d="M5893 2184 5981 2184" stroke="#ED7D31" stroke-width="10.3125" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
         </g>
         <g clip-path="url(#clip28)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5990.22 2196)">RH T Available</text></g>
+                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5990.22 2196)">Av. Rh T</text></g>
         <g clip-path="url(#clip29)">
             <path d="M5440 2262 5528 2262" stroke="#A5A5A5" stroke-width="10.3125" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
         </g>
         <g clip-path="url(#clip30)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5537.27 2273)">Ph in Production</text></g>
+                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5537.27 2273)">Ph in prd</text></g>
         <g clip-path="url(#clip31)">
             <path d="M5893 2262 5981 2262" stroke="#FFC000" stroke-width="10.3125" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
         </g>
         <g clip-path="url(#clip32)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5990.22 2273)">Ph in Transportation</text>
+                font-weight="400" font-size="41" transform="matrix(1 0 0 1 5990.22 2273)">Ph in trn</text>
         </g>
         <rect x="5045.5" y="1350.5" width="1667" height="971" stroke="#D9D9D9" stroke-width="3.4375"
             stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
