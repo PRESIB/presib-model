@@ -57,6 +57,10 @@ Ponos generate a CSV file out of the log of a simulation. After the seven simula
 
 The following table presents the results from the performed simulations:
 
+#### Table 1 
+
+Shows discrete values of the comparative simulation progress:
+
 |             | Inputs |          |         | RESULTS  |          |            |            |
 | ----------- | :----: | -------- | ------- | :------: | -------- | ---------- | ---------- |
 | Simulations |   Ph   | Rh Mach. | Rh Trn. | Av. Rh M | Av. Rh T | Ph in prd. | Ph in trn. |
@@ -83,4 +87,7 @@ Results legend:
 
 
 
+#### Chart
+Visualization of  [Table1](#table1) values
 <img src="simulation/charts/global1.svg"  >
+
