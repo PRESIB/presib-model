@@ -55,3 +55,32 @@ Ponos generate a CSV file out of the log of a simulation. After the seven simula
 
 # Global analisys
 
+The following table presents the results from the performed simulations:
+
+|             | Inputs |          |         | RESULTS  |          |            |            |
+| ----------- | :----: | -------- | ------- | :------: | -------- | ---------- | ---------- |
+| Simulations |   Ph   | Rh Mach. | Rh Trn. | Av. Rh M | Av. Rh T | Ph in prd. | Ph in trn. |
+| sim1        |  1000  | 8        | 6       |  71,97%  | 22,90%   | 27,99%     | 72,48%     |
+| sim2        |  1000  | 16       | 6       |  77,54%  | 27,89%   | 22,41%     | 72,10%     |
+| sim3        |  1000  | 8        | 12      |  70,46%  | 50,61%   | 29,51%     | 49,39%     |
+| sim4        |  1000  | 16       | 12      |  67,59%  | 54,43%   | 32,37%     | 56,85%     |
+| sim5        |  1000  | 32       | 12      |  74,10%  | 44,79%   | 25,77%     | 55,19%     |
+| sim6        |  1000  | 48       | 12      |  68,98%  | 43,55%   | 30,62%     | 64,74%     |
+| sim7        |  1000  | 12       | 3       |  85,33%  | 20,72%   | 14,62%     | 79,28%     |
+
+Inputs legend:
+
+- **Ph** - *Product holon* -  an instance of the net that represents the product to be made;
+- **Rh Mach.** - *Resource holon Machine* - an instance of the net that represents a machine;
+- **Rh Trn.** - *Resource holon Transporter* - an instance of the net that represents a transporter;
+
+Results legend:
+
+- **Av. Rh M** - Avarage available number of Rh Mach. on the simulation;
+- **Av. Rh T** - Avarage available number of Rh Trn. on the simulation;
+- **Ph in prd** - Avarage number of Ph on production;
+- **Ph in trn** - Avarage number of Ph on transit;
+
+
+
+<img src="/simulation/charts/global1.svg">
