@@ -83,4 +83,4 @@ Results legend:
 
 
 
-<img src="/simulation/charts/global1.svg">
+<img src="simulation/charts/global1.svg"  >
