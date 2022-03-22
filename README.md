@@ -87,7 +87,7 @@ Results legend:
 
 
 
-#### Chart
-Visualization of  [Table1](#table1) values
+#### Chart 1
+Visualization of  [Table1](#table-1) values
 <img src="simulation/charts/global1.svg"  >
 
