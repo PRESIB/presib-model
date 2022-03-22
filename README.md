@@ -59,7 +59,7 @@ The following table presents the results from the performed simulations:
 
 #### Table 1 
 
-Shows discrete values of the comparative simulation progress:
+Avarage indicators per simulation in percentage
 
 |             | Inputs |          |         | RESULTS  |          |            |            |
 | ----------- | :----: | -------- | ------- | :------: | -------- | ---------- | ---------- |
@@ -72,22 +72,30 @@ Shows discrete values of the comparative simulation progress:
 | sim6        |  1000  | 48       | 12      |  68,98%  | 43,55%   | 30,62%     | 64,74%     |
 | sim7        |  1000  | 12       | 3       |  85,33%  | 20,72%   | 14,62%     | 79,28%     |
 
-Inputs legend:
+#### Chart 1
+
+#### <img src="simulation/charts/global2.svg"  >
+
+[Chart 1](#chart-1) use the values from [Table 1](#table-1).
+
+### Legend:
 
 - **Ph** - *Product holon* -  an instance of the net that represents the product to be made;
 - **Rh Mach.** - *Resource holon Machine* - an instance of the net that represents a machine;
 - **Rh Trn.** - *Resource holon Transporter* - an instance of the net that represents a transporter;
-
-Results legend:
-
 - **Av. Rh M** - Avarage available number of Rh Mach. on the simulation;
 - **Av. Rh T** - Avarage available number of Rh Trn. on the simulation;
 - **Ph in prd** - Avarage number of Ph on production;
 - **Ph in trn** - Avarage number of Ph on transit;
 
+The values presented on [Table 1](#table-1) indicates that sim 4 presents the best combinations between in indicators acording the defenition on [Theorical use case](#Theorical-use-case)
 
+For more details in the data collected and generated charts please consult the following links:
 
-#### Chart 1
-Visualization of  [Table1](#table-1) values
-<img src="simulation/charts/global1.svg"  >
-
+- [**Sim 1**](simulation/SIMULATION_1_RESULTS.MD)
+- **Sim 2**
+- **Sim 3**
+- **Sim 4**
+- **Sim 5**
+- **Sim 6**
+- **Sim 7**
