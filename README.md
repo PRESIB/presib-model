@@ -1,5 +1,3 @@
-
-
 # What this branch is about?
 
 This brach is an extension of the paper titled **A Graphical and Executable Model for Production Simulation in the Context of Industry 5.0** to be presented in the [2022 IEEE International Symposium on Industrial Electronics](https://www.ieee-isie2022.org/).
@@ -34,7 +32,6 @@ Having in the [European expecitications for the industry 5.0](https://ec.europa.
 > A teorical manufacturing facility needs to understand what will ne the best combination of resources in order to produce 1000 items using a production a best-effort per product without accounting for time.
 >
 > The best combinations of resources means the major number of machines in production and the major number of transporters in use, having the minor value of producs in waiting state.
->
 
 For this pourpose the seven simulations, using the **PRESIB** Model, were made with variable number of machines and transporters available in the shop floor.
 
@@ -57,7 +54,7 @@ Ponos generate a CSV file out of the log of a simulation. After the seven simula
 
 The following table presents the results from the performed simulations:
 
-#### Table 1 
+#### Table 1
 
 Avarage indicators per simulation in percentage
 
@@ -80,9 +77,9 @@ Avarage indicators per simulation in percentage
 
 ### Legend:
 
-- **Ph** - *Product holon* -  an instance of the net that represents the product to be made;
-- **Rh Mach.** - *Resource holon Machine* - an instance of the net that represents a machine;
-- **Rh Trn.** - *Resource holon Transporter* - an instance of the net that represents a transporter;
+- **Ph** - _Product holon_ - an instance of the net that represents the product to be made;
+- **Rh Mach.** - _Resource holon Machine_ - an instance of the net that represents a machine;
+- **Rh Trn.** - _Resource holon Transporter_ - an instance of the net that represents a transporter;
 - **Av. Rh M** - Avarage available number of Rh Mach. on the simulation;
 - **Av. Rh T** - Avarage available number of Rh Trn. on the simulation;
 - **Ph in prd** - Avarage number of Ph on production;
@@ -93,9 +90,9 @@ The values presented on [Table 1](#table-1) indicates that sim 4 presents the be
 For more details in the data collected and generated charts please consult the following links:
 
 - [**Sim 1**](simulation/SIMULATION_1_RESULTS.MD)
-- **Sim 2**
-- **Sim 3**
-- **Sim 4**
-- **Sim 5**
-- **Sim 6**
-- **Sim 7**
+- [**Sim 2**](simulation/SIMULATION_2_RESULTS.MD)
+- [**Sim 3**](simulation/SIMULATION_3_RESULTS.MD)
+- [**Sim 4**](simulation/SIMULATION_4_RESULTS.MD)
+- [**Sim 5**](simulation/SIMULATION_5_RESULTS.MD)
+- [**Sim 6**](simulation/SIMULATION_6_RESULTS.MD)
+- [**Sim 7**](simulation/SIMULATION_7_RESULTS.MD)
