@@ -1,4 +1,4 @@
-# SIMULATION 1 RESULTS
+# SIMULATION 4 RESULTS
 
 <img src="charts/sim4.svg">
 
