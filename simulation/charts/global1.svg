@@ -145,21 +145,21 @@
         <g clip-path="url(#prefix__o)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
                 font-weight="400" font-size="41" transform="translate(3057.83 1545)">35</text></g>
         <g clip-path="url(#prefix__p)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3229.44 2187)">1</text></g>
+                font-weight="400" font-size="41" transform="translate(3229.44 2187)">sim 1</text></g>
         <g clip-path="url(#prefix__q)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3433.41 2187)">2</text></g>
+                font-weight="400" font-size="41" transform="translate(3433.41 2187)">sim 2</text></g>
         <g clip-path="url(#prefix__r)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3637.39 2187)">3</text></g>
+                font-weight="400" font-size="41" transform="translate(3637.39 2187)">sim 3</text></g>
         <g clip-path="url(#prefix__s)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3841.36 2187)">4</text></g>
+                font-weight="400" font-size="41" transform="translate(3841.36 2187)">sim 4</text></g>
         <g clip-path="url(#prefix__t)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4045.34 2187)">5</text></g>
+                font-weight="400" font-size="41" transform="translate(4045.34 2187)">sim 5</text></g>
         <g clip-path="url(#prefix__u)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4249.32 2187)">6</text></g>
+                font-weight="400" font-size="41" transform="translate(4249.32 2187)">sim 6</text></g>
         <g clip-path="url(#prefix__v)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4453.29 2187)">7</text></g>
+                font-weight="400" font-size="41" transform="translate(4453.29 2187)">sim 7</text></g>
         <g clip-path="url(#prefix__w)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4657.27 2187)">8</text></g>
+                font-weight="400" font-size="41" transform="translate(4657.27 2187)">...</text></g>
         <g clip-path="url(#prefix__x)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
                 font-weight="400" font-size="64" transform="translate(3438.49 1458)">Comparative simulation
                 progress</text></g>
@@ -168,25 +168,25 @@
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
         </g>
         <g clip-path="url(#prefix__z)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3273.69 2278)">AV. Avai. Rh M</text></g>
+                font-weight="400" font-size="41" transform="translate(3273.69 2278)">Av. Rh M</text></g>
         <g clip-path="url(#prefix__A)">
             <path d="M3578 2267h88" stroke="#ED7D31" stroke-width="10.313" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
         </g>
         <g clip-path="url(#prefix__B)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(3675.15 2278)">AV. Avai. Rh T</text></g>
+                font-weight="400" font-size="41" transform="translate(3675.15 2278)">Av. Rh T</text></g>
         <g clip-path="url(#prefix__C)">
             <path d="M3964 2267h88" stroke="#A5A5A5" stroke-width="10.313" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
         </g>
         <g clip-path="url(#prefix__D)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4061.45 2278)">AV. inProd Ph</text></g>
+                font-weight="400" font-size="41" transform="translate(4061.45 2278)">Ph in prd</text></g>
         <g clip-path="url(#prefix__E)">
             <path d="M4348 2267h88" stroke="#FFC000" stroke-width="10.313" stroke-linecap="round"
                 stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
         </g>
         <g clip-path="url(#prefix__F)"><text fill="#595959" font-family="Calibri,Calibri_MSFontService,sans-serif"
-                font-weight="400" font-size="41" transform="translate(4445.38 2278)">AV. inTrans Ph</text></g>
+                font-weight="400" font-size="41" transform="translate(4445.38 2278)">Ph in trn</text></g>
         <path stroke="#D9D9D9" stroke-width="3.438" stroke-linejoin="round" stroke-miterlimit="10" fill="none"
             d="M3028.5 1363.5h1792v970h-1792z" />
     </g>
