@@ -1,11 +1,3 @@
-# What this branch is about?
-
-This brach is an extension of the paper titled **A Graphical and Executable Model for Production Simulation in the Context of Industry 5.0** to be presented in the [2022 IEEE International Symposium on Industrial Electronics](https://www.ieee-isie2022.org/).
-
-It contains the **PRESIB Model** presented in the paper and the data and description of the performed simulations.
-
-The purpose of this branch is to present the model and all the data related to the production of the paper for future reference.
-
 # PRESIB
 
 **PRESIB** (**P**roduct, **RE**source, **S**ervices **I**nteraction & **B**ehavior) is an Holionic Manufacturing System architecture. When compared to PROSA (**P**roduct-**R**esource-**O**rder-Staff **A**rchitecture), **PRESIB** shares some similarities with **PROSIS** (**P**roduct, Resource, **O**rder & Simulation **I**soarchic System), like the suppression of the *Staff holon*. As **PROSIS**, **PRESIB** is distributed and self-organized system that tries to achieve optimal behavior based on the state of the holons in a real-time scenario.
