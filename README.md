@@ -1,3 +1,7 @@
+
+> **Warning**
+> This repository has been archived. Please refer to [Presib Helios](https://github.com/PRESIB/helios) for recent information
+
 # PRESIB
 
 **PRESIB** (**P**roduct, **RE**source, **S**ervices **I**nteraction & **B**ehavior) is an Holionic Manufacturing System architecture. When compared to PROSA (**P**roduct-**R**esource-**O**rder-Staff **A**rchitecture), **PRESIB** shares some similarities with **PROSIS** (**P**roduct, Resource, **O**rder & Simulation **I**soarchic System), like the suppression of the *Staff holon*. As **PROSIS**, **PRESIB** is distributed and self-organized system that tries to achieve optimal behavior based on the state of the holons in a real-time scenario.
